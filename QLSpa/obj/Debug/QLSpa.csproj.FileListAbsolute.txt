@@ -1,0 +1,437 @@
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDDV.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietLTL.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDangNhap.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDanhGiaDV.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDichVu.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDN.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonDV.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonNhap.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormKhachHang.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLichTL.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLieuTrinh.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLoaiNhanVien.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormMain.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormMenu.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormNhanVien.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDBH.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonBanHang.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormSanPham.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.Properties.Resources.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.exe.config
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.exe
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.pdb
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\EnvDTE.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\stdole.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.Up2Date
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.exe
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.pdb
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDoiMatKhau.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 2.1\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.frmInHoaDonBanHang.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.exe.config
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.exe
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.pdb
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\EnvDTE.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\stdole.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.xml
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.AssemblyReference.cache
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDDV.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietLTL.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDoiMatKhau.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDangNhap.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDanhGiaDV.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDichVu.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDN.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonDV.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonNhap.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormKhachHang.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLichTL.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLieuTrinh.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLoaiNhanVien.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormMain.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormMenu.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormNhanVien.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDBH.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonBanHang.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormSanPham.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.frmInHoaDonBanHang.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.Properties.Resources.resources
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.GenerateResource.cache
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.CoreCompileInputs.cache
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.Up2Date
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.exe
+C:\Users\Phu tai sang\Downloads\do an 2  đã sủa\do an 2.1\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.pdb
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.AssemblyReference.cache
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDDV.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietLTL.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDoiMatKhau.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDangNhap.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDanhGiaDV.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDichVu.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDN.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonDV.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonNhap.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormKhachHang.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLichTL.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLieuTrinh.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLoaiNhanVien.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormMain.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormMenu.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormNhanVien.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDBH.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonBanHang.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormSanPham.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.frmInHoaDonBanHang.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.Properties.Resources.resources
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.GenerateResource.cache
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.CoreCompileInputs.cache
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.exe
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.pdb
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.exe.config
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.exe
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.pdb
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EnvDTE.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\stdole.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.xml
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\OneDrive\Desktop\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.Up2Date
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.exe.config
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.exe
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.pdb
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EnvDTE.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\stdole.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormCaTrucNhanVien.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDDV.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietLTL.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDoiMatKhau.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDangNhap.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDanhGiaDV.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDichVu.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDN.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonDV.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonNhap.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormKhachHang.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLichTL.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLieuTrinh.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLoaiNhanVien.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormMain.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormMenu.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormNhanVien.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDBH.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonBanHang.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormSanPham.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.frmInHoaDonBanHang.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.Properties.Resources.resources
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.Up2Date
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.exe
+C:\Users\PC\Documents\Zalo Received Files\do an 222\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.pdb
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.exe.config
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.exe
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\QLSpa.pdb
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EnvDTE.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\stdole.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.xml
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.AssemblyReference.cache
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormCaTrucNhanVien.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDDV.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietLTL.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDoiMatKhau.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDangNhap.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDanhGiaDV.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormDichVu.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDN.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonDV.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonNhap.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormKhachHang.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLichTL.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLieuTrinh.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormLoaiNhanVien.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormMain.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormMenu.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormNhanVien.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormChiTietHDBH.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormHoaDonBanHang.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.FormSanPham.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.frmInHoaDonBanHang.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.Properties.Resources.resources
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.GenerateResource.cache
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.CoreCompileInputs.cache
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.csproj.Up2Date
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.exe
+C:\Users\Phu tai sang\Downloads\do an hoan thanh\do an 222\phần mền spa làm đẹp\QLSpa\obj\Debug\QLSpa.pdb
