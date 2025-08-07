@@ -1,184 +1,184 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\",
+  "WorkspaceRootPath": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|c:\\users\\phu tai sang\\downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitietltl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitietltl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formchitietltl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\db\\c__migrationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\db\\c__migrationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\db\\c__migrationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|c:\\users\\phu tai sang\\downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitiethddv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitiethddv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formchitiethddv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitiethddv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitiethddv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formchitiethddv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitiethdbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitiethdbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formchitiethdbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitiethdbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitiethdbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formchitiethdbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formloainhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formloainhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formloainhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formloainhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formloainhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formloainhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\frminhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\frminhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\frminhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formlieutrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formlieutrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formlieutrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formlieutrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formlieutrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formlieutrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formhoadondv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formhoadondv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formhoadondv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formhoadondv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formhoadondv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formhoadondv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formcatrucnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formcatrucnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formcatrucnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\db\\tbl_chitiethdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\db\\tbl_chitiethdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\db\\tbl_chitiethdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\db\\qlspadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\db\\qlspadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\db\\qlspadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\contants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\contants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\contants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formcatrucnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formcatrucnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formcatrucnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\dataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\dataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\dataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdanhgiadv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdanhgiadv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formdanhgiadv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formlichtl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formlichtl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formlichtl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitiethdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitiethdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formchitiethdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitietltl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitietltl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formchitietltl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitiethdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formchitiethdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formchitiethdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdanhgiadv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdanhgiadv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formdanhgiadv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -206,27 +206,27 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formlichtl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formlichtl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formlichtl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\frminhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\frminhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\frminhoadonbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\qlspa\\formkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{026EEABD-222F-433C-8977-931A6B96143F}|QLSpa\\QLSpa.csproj|solutionrelative:qlspa\\formkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -271,23 +271,22 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "C__MigrationHistory.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DB\\C__MigrationHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DB\\C__MigrationHistory.cs",
               "RelativeDocumentMoniker": "QLSpa\\DB\\C__MigrationHistory.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DB\\C__MigrationHistory.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DB\\C__MigrationHistory.cs",
               "RelativeToolTip": "QLSpa\\DB\\C__MigrationHistory.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwBMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:21:27.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T15:21:27.156Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "FormChiTietHDBH.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDBH.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDBH.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormChiTietHDBH.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDBH.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormChiTietHDBH.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDBH.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:43:45.345Z"
             },
@@ -295,11 +294,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FormHoaDonBanHang.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonBanHang.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormHoaDonBanHang.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonBanHang.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonBanHang.cs",
               "RelativeToolTip": "QLSpa\\FormHoaDonBanHang.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAA6wLMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAiwLMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:44:40.455Z",
               "EditorCaption": ""
@@ -308,35 +307,33 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FormChiTietHDDV.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDDV.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDDV.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormChiTietHDDV.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDDV.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDDV.cs",
               "RelativeToolTip": "QLSpa\\FormChiTietHDDV.cs",
               "ViewState": "AgIAAMcAAAAAAAAAAAAEwNsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:50:36.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T16:50:36.237Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "FormChiTietHDDV.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDDV.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDDV.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormChiTietHDDV.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDDV.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormChiTietHDDV.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDDV.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:50:34.835Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-02T16:50:34.835Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "FormLoaiNhanVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLoaiNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLoaiNhanVien.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormLoaiNhanVien.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLoaiNhanVien.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormLoaiNhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLoaiNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T17:29:44.051Z"
             },
@@ -344,35 +341,33 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FormKhachHang.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormKhachHang.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs",
               "RelativeToolTip": "QLSpa\\FormKhachHang.cs",
               "ViewState": "AgIAAJsAAAAAAAAAAAAawKkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:45:23.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T16:45:23.927Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FormChiTietLTL.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormChiTietLTL.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs",
               "RelativeToolTip": "QLSpa\\FormChiTietLTL.cs",
               "ViewState": "AgIAAKAAAAAAAAAAAAAawK4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:50:52.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T16:50:52.303Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "FormLoaiNhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLoaiNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLoaiNhanVien.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormLoaiNhanVien.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLoaiNhanVien.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLoaiNhanVien.cs",
               "RelativeToolTip": "QLSpa\\FormLoaiNhanVien.cs",
               "ViewState": "AgIAAJIAAAAAAAAAAAAEwKYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -382,9 +377,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "FormChiTietHDBH.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDBH.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDBH.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormChiTietHDBH.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDBH.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDBH.cs",
               "RelativeToolTip": "QLSpa\\FormChiTietHDBH.cs",
               "ViewState": "AgIAAKcAAAAAAAAAAAAEwLsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -394,10 +389,10 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "FormNhanVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormNhanVien.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormNhanVien.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormNhanVien.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormNhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:49:18.985Z"
             },
@@ -405,9 +400,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "FormSanPham.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormSanPham.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormSanPham.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormSanPham.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormSanPham.cs",
               "RelativeToolTip": "QLSpa\\FormSanPham.cs",
               "ViewState": "AgIAAMIAAAAAAAAAAAAEwNYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -417,10 +412,10 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "FormMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMain.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormMain.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMain.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:51:37.421Z"
             },
@@ -428,10 +423,10 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "FormMenu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMenu.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormMenu.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMenu.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormMenu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMenu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:40:26.846Z"
             },
@@ -439,10 +434,10 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "FormSanPham.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormSanPham.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormSanPham.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormSanPham.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormSanPham.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormSanPham.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:51:51.053Z"
             },
@@ -450,10 +445,10 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "frmInHoaDonBanHang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\frmInHoaDonBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\frmInHoaDonBanHang.cs",
               "RelativeDocumentMoniker": "QLSpa\\frmInHoaDonBanHang.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\frmInHoaDonBanHang.cs [Design]",
-              "RelativeToolTip": "QLSpa\\frmInHoaDonBanHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\frmInHoaDonBanHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T17:29:22.581Z"
             },
@@ -461,10 +456,10 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "FormLieuTrinh.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormLieuTrinh.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormLieuTrinh.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:51:31.707Z"
             },
@@ -472,10 +467,10 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "FormHoaDonNhap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonNhap.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormHoaDonNhap.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonNhap.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormHoaDonNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:51:18.379Z"
             },
@@ -483,9 +478,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "FormHoaDonNhap.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonNhap.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormHoaDonNhap.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonNhap.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonNhap.cs",
               "RelativeToolTip": "QLSpa\\FormHoaDonNhap.cs",
               "ViewState": "AgIAAIoAAAAAAAAAAAAEwJ4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -495,9 +490,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "FormLieuTrinh.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormLieuTrinh.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs",
               "RelativeToolTip": "QLSpa\\FormLieuTrinh.cs",
               "ViewState": "AgIAAP4AAAAAAAAAAAAEwBIBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -507,9 +502,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "FormHoaDonDV.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormHoaDonDV.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs",
               "RelativeToolTip": "QLSpa\\FormHoaDonDV.cs",
               "ViewState": "AgIAAKkAAAAAAAAAAAAEwL0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -519,10 +514,10 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "FormHoaDonDV.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormHoaDonDV.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormHoaDonDV.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:51:12.858Z"
             },
@@ -530,9 +525,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "QLSPADBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DB\\QLSPADBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DB\\QLSPADBContext.cs",
               "RelativeDocumentMoniker": "QLSpa\\DB\\QLSPADBContext.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DB\\QLSPADBContext.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DB\\QLSPADBContext.cs",
               "RelativeToolTip": "QLSpa\\DB\\QLSPADBContext.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAgwAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -542,21 +537,20 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "FormHoaDonBanHang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonBanHang.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormHoaDonBanHang.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonBanHang.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormHoaDonBanHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonBanHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:51:07.603Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-02T16:51:07.603Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "FormDangNhap.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormDangNhap.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs",
               "RelativeToolTip": "QLSpa\\FormDangNhap.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAzwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -566,22 +560,21 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\App.config",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\App.config",
               "RelativeDocumentMoniker": "QLSpa\\App.config",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\App.config",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\App.config",
               "RelativeToolTip": "QLSpa\\App.config",
               "ViewState": "AgIAAAQAAAAAAAAAAAApwBQAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-24T14:45:01.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T14:45:01.684Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "FormCaTrucNhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormCaTrucNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormCaTrucNhanVien.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormCaTrucNhanVien.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormCaTrucNhanVien.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormCaTrucNhanVien.cs",
               "RelativeToolTip": "QLSpa\\FormCaTrucNhanVien.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAiwGMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -591,9 +584,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "FormNhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormNhanVien.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormNhanVien.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormNhanVien.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormNhanVien.cs",
               "RelativeToolTip": "QLSpa\\FormNhanVien.cs",
               "ViewState": "AgIAAMMAAAAAAAAAAAAcwNAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -603,9 +596,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "tbl_ChiTietHDN.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DB\\tbl_ChiTietHDN.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DB\\tbl_ChiTietHDN.cs",
               "RelativeDocumentMoniker": "QLSpa\\DB\\tbl_ChiTietHDN.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DB\\tbl_ChiTietHDN.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DB\\tbl_ChiTietHDN.cs",
               "RelativeToolTip": "QLSpa\\DB\\tbl_ChiTietHDN.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -615,10 +608,10 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "FormDangNhap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormDangNhap.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:43:29.159Z"
             },
@@ -626,9 +619,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Program.cs",
               "RelativeDocumentMoniker": "QLSpa\\Program.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Program.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Program.cs",
               "RelativeToolTip": "QLSpa\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -638,9 +631,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "DataSet1.xsd",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DataSet1.xsd",
               "RelativeDocumentMoniker": "QLSpa\\DataSet1.xsd",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DataSet1.xsd",
               "RelativeToolTip": "QLSpa\\DataSet1.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
               "WhenOpened": "2024-12-24T14:04:44.411Z"
@@ -649,9 +642,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "Contants.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Contants.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Contants.cs",
               "RelativeDocumentMoniker": "QLSpa\\Contants.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Contants.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Contants.cs",
               "RelativeToolTip": "QLSpa\\Contants.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -661,10 +654,10 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "FormCaTrucNhanVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormCaTrucNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormCaTrucNhanVien.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormCaTrucNhanVien.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormCaTrucNhanVien.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormCaTrucNhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormCaTrucNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T13:49:05.624Z"
             },
@@ -672,9 +665,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "FormMenu.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMenu.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormMenu.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMenu.cs",
               "RelativeToolTip": "QLSpa\\FormMenu.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAowGcAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -684,9 +677,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "DataSet1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DataSet1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DataSet1.Designer.cs",
               "RelativeDocumentMoniker": "QLSpa\\DataSet1.Designer.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DataSet1.Designer.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\DataSet1.Designer.cs",
               "RelativeToolTip": "QLSpa\\DataSet1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -696,10 +689,10 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "FormDichVu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormDichVu.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 222\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 222\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 222\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:51:02.485Z"
             },
@@ -707,10 +700,10 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "FormDanhGiaDV.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormDanhGiaDV.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 222\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 222\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 222\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:50:57.412Z"
             },
@@ -718,10 +711,10 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "FormLichTL.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormLichTL.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 222\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 222\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 222\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:51:27.238Z"
             },
@@ -729,10 +722,10 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "FormChiTietHDN.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDN.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDN.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormChiTietHDN.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 222\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDN.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 222\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDN.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 222\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDN.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:50:46.085Z"
             },
@@ -740,21 +733,20 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "FormChiTietLTL.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormChiTietLTL.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormChiTietLTL.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:50:50.807Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-02T16:50:50.807Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "FormDichVu.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormDichVu.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs",
               "RelativeToolTip": "QLSpa\\FormDichVu.cs",
               "ViewState": "AgIAAJcAAAAAAAAAAAArwKQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -764,9 +756,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "FormChiTietHDN.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDN.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDN.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormChiTietHDN.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDN.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietHDN.cs",
               "RelativeToolTip": "QLSpa\\FormChiTietHDN.cs",
               "ViewState": "AgIAALsAAAAAAAAAAAAnwMcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -777,9 +769,9 @@
               "DocumentIndex": 42,
               "Title": "FormDichVu.cs",
               "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs",
-              "RelativeToolTip": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDichVu.cs",
               "ViewState": "AgIAAH4AAAAAAAAAAAArwIsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T13:37:31.843Z"
@@ -789,9 +781,9 @@
               "DocumentIndex": 51,
               "Title": "FormKhachHang.cs",
               "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs",
-              "RelativeToolTip": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAArwEcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T13:26:32.579Z"
@@ -801,9 +793,9 @@
               "DocumentIndex": 46,
               "Title": "FormChiTietLTL.cs",
               "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs",
-              "RelativeToolTip": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormChiTietLTL.cs",
               "ViewState": "AgIAAKEAAAAAAAAAAAArwK4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T17:05:55.295Z"
@@ -812,9 +804,9 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "FormDanhGiaDV.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormDanhGiaDV.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs",
               "RelativeToolTip": "QLSpa\\FormDanhGiaDV.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -825,9 +817,9 @@
               "DocumentIndex": 45,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Program.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAArwBIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T04:10:21.974Z"
@@ -837,9 +829,9 @@
               "DocumentIndex": 48,
               "Title": "FormDanhGiaDV.cs",
               "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs",
-              "RelativeToolTip": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDanhGiaDV.cs",
               "ViewState": "AgIAAHUAAAAAAAAAAAAAAM4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T13:57:18.601Z"
@@ -849,9 +841,9 @@
               "DocumentIndex": 49,
               "Title": "FormLichTL.cs",
               "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs",
-              "RelativeToolTip": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAArwFcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T13:48:54.133Z"
@@ -861,9 +853,9 @@
               "DocumentIndex": 50,
               "Title": "FormHoaDonDV.cs",
               "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs",
-              "RelativeToolTip": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormHoaDonDV.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAArwDIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T13:41:53.052Z"
@@ -873,9 +865,9 @@
               "DocumentIndex": 47,
               "Title": "FormDangNhap.cs",
               "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs",
-              "RelativeToolTip": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDangNhap.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAArwB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T04:02:10.013Z"
@@ -885,9 +877,9 @@
               "DocumentIndex": 52,
               "Title": "FormLieuTrinh.cs",
               "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs",
-              "RelativeToolTip": "..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\do an 2  \u0111\u00E3 s\u1EE7a\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLieuTrinh.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAArwOwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T13:52:59.602Z"
@@ -896,9 +888,9 @@
               "$type": "Document",
               "DocumentIndex": 53,
               "Title": "FormLichTL.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormLichTL.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormLichTL.cs",
               "RelativeToolTip": "QLSpa\\FormLichTL.cs",
               "ViewState": "AgIAAIAAAAAAAAAAAAArwI0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -908,9 +900,9 @@
               "$type": "Document",
               "DocumentIndex": 54,
               "Title": "frmInHoaDonBanHang.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\frmInHoaDonBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\frmInHoaDonBanHang.cs",
               "RelativeDocumentMoniker": "QLSpa\\frmInHoaDonBanHang.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\frmInHoaDonBanHang.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\frmInHoaDonBanHang.cs",
               "RelativeToolTip": "QLSpa\\frmInHoaDonBanHang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -920,10 +912,10 @@
               "$type": "Document",
               "DocumentIndex": 57,
               "Title": "FormDoiMatKhau.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDoiMatKhau.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDoiMatKhau.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormDoiMatKhau.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDoiMatKhau.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDoiMatKhau.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDoiMatKhau.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:43:27.983Z"
             },
@@ -931,9 +923,9 @@
               "$type": "Document",
               "DocumentIndex": 55,
               "Title": "FormDoiMatKhau.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDoiMatKhau.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDoiMatKhau.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormDoiMatKhau.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDoiMatKhau.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormDoiMatKhau.cs",
               "RelativeToolTip": "QLSpa\\FormDoiMatKhau.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -943,9 +935,9 @@
               "$type": "Document",
               "DocumentIndex": 56,
               "Title": "FormMain.cs",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMain.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormMain.cs",
-              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMain.cs",
+              "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormMain.cs",
               "RelativeToolTip": "QLSpa\\FormMain.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -955,22 +947,21 @@
               "$type": "Document",
               "DocumentIndex": 58,
               "Title": "FormKhachHang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Phu tai sang\\Downloads\\spa l\u00E0m dep\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs",
               "RelativeDocumentMoniker": "QLSpa\\FormKhachHang.cs",
               "ToolTip": "C:\\Users\\Phu tai sang\\Downloads\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs [Design]",
-              "RelativeToolTip": "QLSpa\\FormKhachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\do an hoan thanh\\do an 222\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLSpa\\FormKhachHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:50:07.803Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-02T16:50:07.803Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 59,
               "Title": "FormKhachHang.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormKhachHang.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormKhachHang.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormKhachHang.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormKhachHang.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormKhachHang.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormKhachHang.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:38:10.145Z"
             },
@@ -979,9 +970,9 @@
               "DocumentIndex": 61,
               "Title": "QLSPaDBContext.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\QLSPaDBContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\QLSPaDBContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\QLSPaDBContext.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\QLSPaDBContext.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\QLSPaDBContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\QLSPaDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:39:33.555Z"
@@ -991,9 +982,9 @@
               "DocumentIndex": 62,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T16:39:20.292Z"
@@ -1003,9 +994,9 @@
               "DocumentIndex": 60,
               "Title": "QLSpa",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\QLSpa.csproj",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\QLSpa.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\QLSpa.csproj",
               "ToolTip": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\QLSpa.csproj",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\QLSpa.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\QLSpa.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-02T16:38:15.613Z"
             },
@@ -1014,9 +1005,9 @@
               "DocumentIndex": 63,
               "Title": "FormKhachHang.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormKhachHang.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormKhachHang.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormKhachHang.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormKhachHang.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormKhachHang.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormKhachHang.cs",
               "ViewState": "AgIAAIoAAAAAAAAAAAArwJcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T09:10:35.173Z"
@@ -1026,9 +1017,9 @@
               "DocumentIndex": 64,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\App.config",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\App.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\App.config",
               "ToolTip": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\App.config",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\App.config",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\App.config",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-10-29T11:15:46.028Z"
@@ -1038,9 +1029,9 @@
               "DocumentIndex": 65,
               "Title": "FormChiTietHDBH.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormChiTietHDBH.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormChiTietHDBH.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormChiTietHDBH.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormChiTietHDBH.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormChiTietHDBH.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\FormChiTietHDBH.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T09:08:55.022Z"
             },
@@ -1049,9 +1040,9 @@
               "DocumentIndex": 66,
               "Title": "sysdiagram.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\DB\\sysdiagram.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\DB\\sysdiagram.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\DB\\sysdiagram.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\DB\\sysdiagram.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\DB\\sysdiagram.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PC\\Documents\\Zalo Received Files\\do an 2.1\\do an 2.1\\ph\u1EA7n m\u1EC1n spa l\u00E0m \u0111\u1EB9p\\QLPhongKham\\DB\\sysdiagram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T08:57:18.626Z"
